@@ -1,0 +1,7 @@
+What have I learned from this reading?
+
+I have learned that a Full Stack Developer is a versatile professional who can build complete web applications by working on both the front-end (what users see) and back-end (server, logic, and database). They act as a “jack of all trades,” handling everything from user interface design to deploying the final product.
+The website shows that we start with the fundamentals: HTML, CSS, and JavaScript for the front end. You then progress to modern tools like React or Tailwind CSS, version control with Git, and building responsive, interactive websites.
+On the back end, you learn a server-side language (the roadmap recommends Node.js because it uses JavaScript), RESTful APIs, authentication (JWT), databases (PostgreSQL or others), and caching with Redis. Later stages cover DevOps basics — Linux, cloud services (AWS), etc.
+Key takeaways include the importance of practical projects at every checkpoint, building a portfolio, and continuous learning. The guide stresses that becoming job-ready takes time and hands-on experience rather than just theory. It also notes that full-stack development is challenging but extremely rewarding because you gain the ability to create entire applications from start to finish.
+Overall, I learned that the website provides a clear, step-by-step learning path for beginners aiming to become modern full-stack developers in 2026.
